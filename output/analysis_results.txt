@@ -1,1 +1,5 @@
 Average grade: 82.8 Math Student Count: 0 Student Count: 8
+Grade Distrobustion: {'A (90-100)': 2, 'B (80-89)': 5, 'C (70-79)': 7, 'D (60-69)': 8, 'F (0-59)': 0}
+Maximum Grade: 97
+Minimum Grade: 67
+Student Subjects: {'English': 1, 'PE': 1, 'History': 2, 'Chemistry': 1, 'Art': 1, 'Biology': 2}
